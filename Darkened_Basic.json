@@ -117,4 +117,17 @@
         "PRIMARY_800": "#0C0B0C"
     },
     "spec": 2
+} "version": 0,
+        "mentionLineColor": "#08D9D6"
+    },
+
+    "background": {
+        "type": "video",
+        "url": "url-to-your-video",
+        "blur": 0,
+        "opacity": 1,
+        "scaling": "cover",
+        "loop": true,
+        "mute": true
+    }
 }
