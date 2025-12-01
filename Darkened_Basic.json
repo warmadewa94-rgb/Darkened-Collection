@@ -119,7 +119,6 @@
     "spec": 2
 } "version": 0,
         "mentionLineColor": "#08D9D6"
-    },
 
     "background": {
         "type": "video",
@@ -130,4 +129,3 @@
         "loop": true,
         "mute": true
     }
-}
