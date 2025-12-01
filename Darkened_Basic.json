@@ -1,9 +1,9 @@
 {
-    "name": "Darkened Basic",
+    "name": "Darkened Basic (With animated BG)",
     "description": "A simple, darker theme.",
     "authors": [
         {
-            "name": "Purple_Ξye™"
+            "name": "Purple_Ξye™, edited by Cassandre"
         }
     ],
     "semanticColors": {
@@ -121,8 +121,8 @@
         "mentionLineColor": "#08D9D6"
 
     "background": {
-        "type": "video",
-        "url": "url-to-your-video",
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/warmadewa94-rgb/Darkened-Collection/refs/heads/main/autumn_campfire.gif",
         "blur": 0,
         "opacity": 1,
         "scaling": "cover",
