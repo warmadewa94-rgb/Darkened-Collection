@@ -182,12 +182,13 @@
         "PRIMARY_700": "#0f0f10",
         "PRIMARY_800": "#0C0B0C"
     },
-    "background": {
-        "url": "https://raw.githubusercontent.com/warmadewa94-rgb/Darkened-Collection/refs/heads/main/Backgrounds/Background_blue.png",
-        "alpha": 1
-    }
     "spec": 2,
     "plus": {
         "version": 0,
         "mentionLineColor": "#08D9D6"
+    },
+"background": {
+        "url": "https://raw.githubusercontent.com/warmadewa94-rgb/Darkened-Collection/refs/heads/main/Backgrounds/Background_blue.png",
+        "alpha": 1
     }
+}
