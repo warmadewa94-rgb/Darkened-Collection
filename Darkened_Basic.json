@@ -101,6 +101,10 @@
             "#f23f431a"
         ]
     },
+    "background": {
+        "url": "",
+        "alpha": 1
+    },
     "rawColors": {
         "RED_400": "#F83838",
         "PLUM_14": "#1D1D21",
