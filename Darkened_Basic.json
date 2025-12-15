@@ -101,10 +101,6 @@
             "#f23f431a"
         ]
     },
-    "background": {
-        "url": "https://raw.githubusercontent.com/warmadewa94-rgb/Darkened-Collection/refs/heads/main/Backgrounds/Background_blue.png",
-        "alpha": 1
-    },
     "rawColors": {
         "RED_400": "#F83838",
         "PLUM_14": "#1D1D21",
