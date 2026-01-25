@@ -1,0 +1,21 @@
+{
+    "name": "Background Only – Image Layer",
+    "description": "Adds an image background without modifying Discord colors.",
+    "authors": [
+        {
+            "name": "Erlang™"
+        }
+    ],
+
+    "backgroundImage": {
+        "enabled": true,
+        "url": "",
+        "overlayColor": "#000000",
+        "overlayOpacity": 0.6,
+        "blur": 0,
+        "scale": "cover",
+        "position": "center"
+    },
+
+    "spec": 2
+}
