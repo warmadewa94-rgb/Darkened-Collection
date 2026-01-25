@@ -9,7 +9,7 @@
 
     "backgroundImage": {
         "enabled": true,
-        "url": "",
+        "url": "https://raw.githubusercontent.com/warmadewa94-rgb/Darkened-Collection/refs/heads/main/Backgrounds/Milk%20Inside%20a%20Bag%20of%20Milk%20Inside%20a%20Bag%20of%20Milk.jpg",
         "overlayColor": "#000000",
         "overlayOpacity": 0.6,
         "blur": 0,
